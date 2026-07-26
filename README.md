@@ -169,12 +169,10 @@ Performance Evaluation
 
 | Module | Description |
 |---------|-------------|
-| s01 | Data preparation and feature engineering |
-| s02 | TPOT AutoML pipeline search |
-| s03 | Evaluation of best pipelines |
-| mymodule | Helper functions |
-| SQLite database | Intermediate datasets |
-| Documentation | Code documentation |
+| s01dataPreparation | Data preparation and feature engineering |
+| s02automl | TPOT AutoML pipeline search |
+| s03bestPipelines | Evaluation of best pipelines |
+| EWS | Code documentation |
 
 ---
 
